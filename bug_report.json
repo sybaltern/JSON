@@ -1,1 +1,10 @@
-
+{"fields":  
+ {"ID": "1",
+  "Title": "Не работает Viber",
+  "Priority": "normal",
+  "Severity": "minor",
+  "Environment": "Google Chrome Windows 11",
+  "Steps": "{'1': 'Зайти на сайт capital.com', '2': 'Выбрать Viber, в качестве средства связи с компанией', '3': 'Нажать на значок Viber'}",
+  "ExpectedResult": "Viber работает",
+  "ActualResult":"Viber не работает"}
+}
